@@ -20,4 +20,3 @@ elif operator == "%":
  print (str(a) + " % " + str(b) + " = " + str(result))
 else:
  print ("Input Invalid")
- quit()
